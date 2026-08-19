@@ -14,6 +14,12 @@ https://whetherdashboard.vercel.app
 - 📱 Responsive design
 - 🔐 API key securely stored using Vercel Environment Variables
 
+## 📸 Screenshots
+### 🔍 Before Searching
+![Weather Dashboard Before Search](Weather1.png)
+### 🌤️ After Searching
+![Weather Dashboard After Search](Weather2.png)
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
