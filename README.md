@@ -47,4 +47,5 @@ The OpenWeatherMap API key is stored as an environment variable in Vercel and is
 **Manya-RS**
 GitHub: https://github.com/Manya-RS
 
-\
+
+
